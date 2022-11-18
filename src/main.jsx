@@ -7,5 +7,5 @@ import './style.css'
 const root = createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <GiffExpertApp />
-  </React.StrictMode>
+   </React.StrictMode>  
 )
